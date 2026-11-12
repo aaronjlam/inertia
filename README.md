@@ -1,2 +1,0 @@
-# inertia
-Maze game
